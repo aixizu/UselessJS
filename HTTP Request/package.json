@@ -1,0 +1,12 @@
+{
+  "name": "http-request",
+  "version": "0.0.0a",
+  "description": "HTTP Request for getting data",
+  "main": "index.js",
+  "author": "aixizu",
+  "license": "none",
+  "private": false,
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
