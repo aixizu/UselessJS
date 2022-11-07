@@ -1,0 +1,13 @@
+{
+  "name": "minmax",
+  "version": "0.0.0",
+  "scripts": 
+  {
+    "generate": "node ./generate.js",
+    "start": "node ./index.js"
+  },
+  "main": "index.js",
+  "author": "aixizu",
+  "license": "none",
+  "private": false
+}
