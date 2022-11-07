@@ -103,3 +103,6 @@ dist
 # TernJS port file
 .tern-port
 .vscode
+
+# Looks like I might have some .json files here..
+*.json
