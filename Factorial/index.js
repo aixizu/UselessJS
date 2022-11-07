@@ -21,6 +21,7 @@ function Read()
     reader.question('Enter a number: ', (number) =>
     {
         console.log('The factorial is: ', factorial(number));
+        reader.close();
     });
 }
 
